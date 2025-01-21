@@ -1,0 +1,5 @@
+New-rep-projectgit clone https://github.com/<ваш_профиль>/<имя_репозитория>.git
+cd <имя_репозитория>
+echo "# My New Project" > README.md
+git add README.md
+git push origin main
